@@ -42,7 +42,7 @@ ML-Titanic-Competition/
 - Family size impacted survival probability
 
 ## 🔗 Links
-- [Kaggle Notebook](https://www.kaggle.com/code/waarihaasim/ml-titanic-competition)
+- [Kaggle Notebook](https://www.kaggle.com/code/waarihaasim/ml-titanic-competition-notebook)
 - [Kaggle Competition](https://www.kaggle.com/c/titanic)
 - [GitHub Repository](https://github.com/Wariha-Asim/ML-Titanic-Competition)
 
