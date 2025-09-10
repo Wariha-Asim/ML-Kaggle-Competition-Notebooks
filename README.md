@@ -5,8 +5,7 @@ This repository contains solutions for two Kaggle machine learning competitions,
 ## 🏆 Competitions
 
 ### 1. 🚢 Titanic: Machine Learning from Disaster
-**Notebook**: [Titanic Survival Prediction](https://github.com/Wariha-Asim/ML-Kaggle-Competition-Notebooks/blob/main/titanic-competition.ipynb)  
-**Kaggle**: [Competition Entry](https://www.kaggle.com/code/waarihaasim/ml-titanic-competition-notebook)
+**Kaggle Notebook Link **: [Competition Entry](https://www.kaggle.com/code/waarihaasim/ml-titanic-competition-notebook)
 
 **Key Takeaways**:
 - Binary classification problem predicting passenger survival
@@ -14,9 +13,8 @@ This repository contains solutions for two Kaggle machine learning competitions,
 - Key insights: Women, children, and higher-class passengers had better survival rates
 - Comprehensive data preprocessing and feature engineering
 
-### 2. 🏠 House Prices: Advanced Regression Techniques
-**Notebook**: [House Price Prediction](https://github.com/Wariha-Asim/ML-Kaggle-Competition-Notebooks/blob/main/House%20Prices%20-%20Advanced%20Regression%20Techniques/house-prices-advanced-regression-techniques.ipynb)  
-**Kaggle**: [Competition Entry](https://www.kaggle.com/code/waarihaasim/house-prices-advanced-regression-notebook)
+### 2. 🏠 House Prices: Advanced Regression Techniques  
+**Kaggle Notebook Link **: [Competition Entry](https://www.kaggle.com/code/waarihaasim/house-prices-advanced-regression-notebook)
 
 **Key Takeaways**:
 - Regression problem predicting home prices in Ames, Iowa
