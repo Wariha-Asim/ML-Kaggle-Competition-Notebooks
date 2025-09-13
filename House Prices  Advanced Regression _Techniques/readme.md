@@ -64,9 +64,4 @@ House-Prices-Regression/
 
 ## 📄 License
 This project is open source and available under the MIT License.
-
----
-
 *This project was developed as part of Kaggle's House Prices competition, demonstrating advanced regression techniques for predictive modeling on structured housing data.*
-
-## 📁 Project Structure
