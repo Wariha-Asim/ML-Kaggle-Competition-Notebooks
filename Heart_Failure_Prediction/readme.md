@@ -75,4 +75,7 @@ Heart Failure Prediction
 - **Best Model:** XGBoost (Tuned)
 - **Use Case:** Helps in predicting heart disease risk for healthcare applications.
 
+## Kaggle Notebook
+You can view the full notebook on Kaggle: [https://www.kaggle.com/code/waarihaasim/heart-failure-prediction-xgboost-catboost]
+
 
