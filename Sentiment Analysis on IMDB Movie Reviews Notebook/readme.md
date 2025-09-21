@@ -64,11 +64,11 @@ The pipeline includes **data preprocessing, feature extraction, multiple model t
 - **Logistic Regression** → Reliable, balanced performance  
 - **SVM** → **Highest overall performance**  
 
-✅ **Selected Best Model: Support Vector Machine (SVM)**  
-- Accuracy: ~**86%**  
+✅ **Selected Best Model: Support Vector Machine (SVM)**   
+- Accuracy: ~**89%**  
 - Precision/Recall: High & consistent  
-- ROC-AUC: Excellent  
-
+- ROC-AUC: ~**90%** Strong classification power
+  
 ## Project Structure:
 🎬 Sentiment Analysis on IMDB Movie Reviews/
 │
